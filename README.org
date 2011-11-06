@@ -1,0 +1,9 @@
+* Vorlage für einen Vortrag mit einer PDF durch LaTeX Beamer
+
+* Benötigt wird
+ - PDFLaTeX
+ - das beamer Paket
+ - make
+
+* Verwendung
+ TODO
